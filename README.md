@@ -1,4 +1,4 @@
-# zoo-data-excelr
+# Zoo Animals
 Assignment for K Nearest Neighbors
 
 ### Problem statement
